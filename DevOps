@@ -1,0 +1,5 @@
+Create Scaling Policies (if necessary): If no scaling policies are listed, it means there are no automatic scaling policies currently associated with that Auto Scaling group. You can create new scaling policies by clicking on the "Add policy" or "Create scaling policy" button, depending on the interface.
+
+Ensure IAM Permissions: Ensure that your IAM (Identity and Access Management) user or role has the necessary permissions to view and manage Auto Scaling policies. Without the proper permissions, you may not be able to see or modify scaling policies.
+
+Check for Errors: If you encounter any errors or unexpected behavior while creating or associating scaling policies, review the error messages for clues on what might be wrong. Common issues include incorrect permissions, missing configuration settings, or errors in policy syntax.
